@@ -7,9 +7,10 @@ My practice one is named index.html.
 Thank you :)
 
 
-https://yao1222.github.io/JavaScript30/
+[Page] (https://yao1222.github.io/JavaScript30/)
 
-
+Days | Link
+-----|:------:
 |Day01 |[Demo](https://yao1222.github.io/JavaScript30/01-Drum%20Kit/)|
 |Day02 |[Demo](https://yao1222.github.io/JavaScript30/02-JS%20and%20CSS%20Clock/)|
 
