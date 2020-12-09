@@ -23,6 +23,7 @@ Day01 |[Demo](https://yao1222.github.io/JavaScript30/01-Drum%20Kit/)
 Day02 |[Demo](https://yao1222.github.io/JavaScript30/02-JS%20and%20CSS%20Clock/)
 Day03 |[Demo](https://yao1222.github.io/JavaScript30/03-CSS%20Variables/)
 Day04 |[Demo](https://yao1222.github.io/JavaScript30/04-Array%20Cardio/)
+Day05 |[Demo](https://yao1222.github.io/JavaScript30/05-Flex%20Panel/)
 
 
 
